@@ -16,8 +16,13 @@ Terms and Conditions(2021)
 
 ### Features
 1.It is free of cost.
-3.We have enhanced the efficiency of our algorithm to give the user a highly accurate result. 
+
+2.We have enhanced the efficiency of our algorithm to give the user a highly accurate result. 
+
 4.Each service in the app is fully automated, which means that the user has to just provide the input.
+
 5.It comes with a free and effective encryption service.
+
 6.It is fast. The app tells the results almost instantly, taking at maximum 15 seconds.
+
 7.Last but not the least, the user can contact us directly in case of any problems.We would reach you within 24 hours of your complain.
