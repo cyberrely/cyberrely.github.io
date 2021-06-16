@@ -1,7 +1,5 @@
 # CyberRely: All new Cyber Security Mechanism
 
-## 'It takes 20 years to build a fortune but just a few seconds of cyber attack to ruin it'
-
 ### About CyberRely
 <b>Cyberrely is a Cyber-Security app consisting of 4 distinct services :</b> 
 - PhishSafe : Detects phishing websites
