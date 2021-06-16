@@ -1,7 +1,7 @@
 # CyberRely: All new Cyber Security Mechanism
 
 ### About CyberRely
-<b>Cyberrely is a Cyber-Security app consisting of 4 distinct services :</b> 
+Cyberrely is a Cyber-Security app consisting of 4 distinct services :
 - PhishSafe : Detects phishing websites
 - MaiSafe : Accurately Classifies mails as spam or ham
 - VirusSafe : Checks for malicious files on your system.               Currently in development 
