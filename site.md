@@ -8,6 +8,7 @@
 - MaiSafe : Accurately Classifies mails as spam or ham
 - VirusSafe : Checks for malicious files on your system.               Currently in development 
 - Encrypt File : An encryption service for safe transfer of data over the web
+
 Each of these services is fully automated.The user is only required to give the necessary input.
 All Services of our data are used while taking utmost care of User privacy.
 Some of the personal information of the user, such as the password used for initialisation of MailSafe is not stored anywhere in our app. For more, read our 
