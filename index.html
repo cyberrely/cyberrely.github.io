@@ -22,42 +22,43 @@
   <script src="https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js" nomodule=""></script>
   <script src="https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js" nomodule=""></script>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=fetch" nomodule=""></script>
-	
+ <code> 
   @media screen and (max-width: 481px) {
-  #main, #subnav{
-	float: left;
-	padding:0;
-	width: 94%;
-	margin: 3%;
+	  #main, #subnav{
+		float: left;
+		padding:0;
+		width: 94%;
+		margin: 3%;
+	  }
+	  #subnav dt{
+		padding: 0;
+		margin-top:0;
+	  }
+	  #subnav {
+		border-right: 1px dotted #aaa;
+		border-bottom: 1px dotted #aaa;
+	  }
+	  #logo {
+		font-size: 45px;
+	  }
+
+	  #menu{
+		text-align: center;
+		padding:0;
+	  }
+	  #menu li{
+		display: inline-block;
+		margin: 1.25% .5% 1.25% .5%;
+		border-left: 0;
+		padding: 1%;
+		border: 1px solid white;
+	  }
+	  #menu li a {
+		color: white;
+		text-decoration: none;
+	  }
   }
-  #subnav dt{
-	padding: 0;
-	margin-top:0;
-  }
-  #subnav {
-	border-right: 1px dotted #aaa;
-	border-bottom: 1px dotted #aaa;
-  }
-  #logo {
-	font-size: 45px;
-  }
-	
-  #menu{
-	text-align: center;
-	padding:0;
-  }
-  #menu li{
-	display: inline-block;
-	margin: 1.25% .5% 1.25% .5%;
-	border-left: 0;
-	padding: 1%;
-	border: 1px solid white;
-  }
-  #menu li a {
-	color: white;
-	text-decoration: none;
-  }
-  }
+  </code>
 
   <!-- Performance API Polyfills -->
   <script>
