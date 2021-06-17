@@ -5,6 +5,7 @@
   <meta charset='utf-8'>
   <meta name="viewport" content="width=device-width, initial-scale=1" id="wixDesktopViewport" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1" /> 
   <meta name="msvalidate.01" content="506342410DBE65B5A231BC8C24DD82F1" />
   <meta name="google-site-verification" content="SBoZ16V1m2U-kN6dFiCVXummYx-CK4ST48Wi-D8DEOk" />
   <meta name="description" content="With this algorithim we aim to decrease the fatal acts of cybercrime & provide various security features to protect people against their leak of personal data">
@@ -21,6 +22,42 @@
   <script src="https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js" nomodule=""></script>
   <script src="https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js" nomodule=""></script>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=fetch" nomodule=""></script>
+	
+  @media screen and (max-width: 481px) {
+  #main, #subnav{
+	float: left;
+	padding:0;
+	width: 94%;
+	margin: 3%;
+  }
+  #subnav dt{
+	padding: 0;
+	margin-top:0;
+  }
+  #subnav {
+	border-right: 1px dotted #aaa;
+	border-bottom: 1px dotted #aaa;
+  }
+  #logo {
+	font-size: 45px;
+  }
+	
+  #menu{
+	text-align: center;
+	padding:0;
+  }
+  #menu li{
+	display: inline-block;
+	margin: 1.25% .5% 1.25% .5%;
+	border-left: 0;
+	padding: 1%;
+	border: 1px solid white;
+  }
+  #menu li a {
+	color: white;
+	text-decoration: none;
+  }
+  }
 
   <!-- Performance API Polyfills -->
   <script>
